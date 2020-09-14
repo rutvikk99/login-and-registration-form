@@ -29,7 +29,7 @@ You can create this using  PHPMyAdmin.
 
 id  - auto increment, primary key
 
-udername - varchar(100)
+username - varchar(100)
 
 email-varchar(100)
 
