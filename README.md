@@ -41,6 +41,6 @@ created_at-datatime and default =current time
 step 4:- copy and paste all the files and make sure database name is same as in the server.php file .
 
 
-step 5:- run on a localhost ..
+step 5:- run on a localhost .
 
 
