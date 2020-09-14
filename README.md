@@ -22,13 +22,21 @@ step 2 :- create 6 files.
 6 style.css -styling the page.
 
 step 3:-Create a database called form. In the form database, add a table called users. 
+
 The users table will take the following 5 fields.
+
 You can create this using  PHPMyAdmin.
+
 id  - auto increment, primary key
+
 udername - varchar(100)
+
 email-varchar(100)
+
 password-varchar(100)
+
 created_at-datatime and default =current time
+
 
 step 4:- copy and paste all the files and make sure database name is same as in the server.php file .
 
