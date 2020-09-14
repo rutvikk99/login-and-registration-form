@@ -15,7 +15,7 @@ step 2 :- create 6 files.
 5 errors.php - to display the errors.
 6 style.css -styling the page.
 
-step 3:-Create a database called form. In the formdatabase, add a table called users. 
+step 3:-Create a database called form. In the form database, add a table called users. 
 The users table will take the following 5 fields.
 You can create this using  PHPMyAdmin.
 id  - auto increment, primary key
