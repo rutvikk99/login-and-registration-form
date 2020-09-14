@@ -7,6 +7,7 @@ xamp and code editor
 step 1:- create a folder  in htdocs folder of xamp.
 
 step 2 :- create 6 files.
+
 1 server.php- for setting up database connection .
 2 index.php-  if user is able to login redirect it to home page .
 3 login.php-  for logging a user in the database.
